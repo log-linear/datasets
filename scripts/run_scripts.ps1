@@ -6,4 +6,5 @@ git add ..\data\dfw_historical_weather.csv
 $today = Get-Date -Format "yyyy/MM/dd"
 $message = -join("Update ", $today)
 git commit -m $message
+git push origin
 
