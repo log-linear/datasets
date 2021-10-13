@@ -1,0 +1,119 @@
+locale,date,holiday,type,weekday,city_holiday
+en-US,2013-01-01,New Year's Day,NF,2,TRUE
+en-US,2013-01-21,MLK Day,NV,1,TRUE
+en-US,2013-02-18,President's Day,NV,1,TRUE
+en-US,2013-05-27,Memorial Day,NV,1,TRUE
+en-US,2013-07-04,Independence Day,NF,4,TRUE
+en-US,2013-09-02,Labor Day,NV,1,TRUE
+en-US,2013-10-14,Columbus Day,NV,1,FALSE
+en-US,2013-11-11,Veterans Day,NF,1,FALSE
+en-US,2013-11-22,Day after Thanksgiving,NV,5,TRUE
+en-US,2013-11-28,Thanksgiving Day,NV,4,TRUE
+en-US,2013-12-24,Christmas Eve,NRF,2,TRUE
+en-US,2013-12-25,Christmas Day,NRF,3,TRUE
+en-US,2013-12-31,New Year's Eve,NF,2,FALSE
+en-US,2014-01-01,New Year's Day,NF,3,TRUE
+en-US,2014-01-20,MLK Day,NV,1,TRUE
+en-US,2014-02-17,President's Day,NV,1,TRUE
+en-US,2014-05-26,Memorial Day,NV,1,TRUE
+en-US,2014-07-04,Independence Day,NF,5,TRUE
+en-US,2014-09-01,Labor Day,NV,1,TRUE
+en-US,2014-10-13,Columbus Day,NV,1,FALSE
+en-US,2014-11-11,Veterans Day,NF,2,FALSE
+en-US,2014-11-27,Thanksgiving Day,NV,4,TRUE
+en-US,2014-11-28,Day after Thanksgiving,NV,5,TRUE
+en-US,2014-12-24,Christmas Eve,NRF,3,TRUE
+en-US,2014-12-25,Christmas Day,NRF,4,TRUE
+en-US,2014-12-31,New Year's Eve,NF,3,FALSE
+en-US,2015-01-01,New Year's Day,NF,4,TRUE
+en-US,2015-01-19,MLK Day,NV,1,TRUE
+en-US,2015-02-16,President's Day,NV,1,TRUE
+en-US,2015-05-25,Memorial Day,NV,1,TRUE
+en-US,2015-07-03,Independence Day (City Observation),NF,5,TRUE
+en-US,2015-07-04,Independence Day,NF,6,FALSE
+en-US,2015-09-07,Labor Day,NV,1,TRUE
+en-US,2015-10-12,Columbus Day,NV,1,FALSE
+en-US,2015-11-11,Veterans Day,NF,3,FALSE
+en-US,2015-11-26,Thanksgiving Day,NV,4,TRUE
+en-US,2015-11-27,Day after Thanksgiving,NV,5,TRUE
+en-US,2015-12-24,Christmas Eve,NRF,4,TRUE
+en-US,2015-12-25,Christmas Day,NRF,5,TRUE
+en-US,2015-12-31,New Year's Eve,NF,4,FALSE
+en-US,2016-01-01,New Year's Day,NF,5,TRUE
+en-US,2016-01-18,MLK Day,NV,1,TRUE
+en-US,2016-02-15,President's Day,NV,1,TRUE
+en-US,2016-05-30,Memorial Day,NV,1,TRUE
+en-US,2016-07-04,Independence Day,NF,1,TRUE
+en-US,2016-09-05,Labor Day,NV,1,TRUE
+en-US,2016-10-10,Columbus Day,NV,1,FALSE
+en-US,2016-11-11,Veterans Day,NF,5,FALSE
+en-US,2016-11-24,Thanksgiving Day,NV,4,TRUE
+en-US,2016-11-25,Day after Thanksgiving,NV,5,TRUE
+en-US,2016-12-24,Christmas Eve,NRF,6,FALSE
+en-US,2016-12-25,Christmas Day,NRF,0,FALSE
+en-US,2016-12-31,New Year's Eve,NF,6,FALSE
+en-US,2017-01-01,New Year's Day,NF,0,FALSE
+en-US,2017-01-16,MLK Day,NV,1,TRUE
+en-US,2017-02-20,President's Day,NV,1,TRUE
+en-US,2017-05-29,Memorial Day,NV,1,TRUE
+en-US,2017-07-04,Independence Day,NF,2,TRUE
+en-US,2017-09-04,Labor Day,NV,1,TRUE
+en-US,2017-10-09,Columbus Day,NV,1,FALSE
+en-US,2017-11-11,Veterans Day,NF,6,FALSE
+en-US,2017-11-23,Thanksgiving Day,NV,4,TRUE
+en-US,2017-11-24,Day after Thanksgiving,NV,5,TRUE
+en-US,2017-12-24,Christmas Eve,NRF,0,FALSE
+en-US,2017-12-25,Christmas Day,NRF,1,TRUE
+en-US,2017-12-31,New Year's Eve,NF,0,FALSE
+en-US,2018-01-01,New Year's Day,NF,1,TRUE
+en-US,2018-01-15,MLK Day,NV,1,TRUE
+en-US,2018-02-19,President's Day,NV,1,TRUE
+en-US,2018-05-28,Memorial Day,NV,1,TRUE
+en-US,2018-07-04,Independence Day,NF,3,TRUE
+en-US,2018-09-03,Labor Day,NV,1,TRUE
+en-US,2018-10-08,Columbus Day,NV,1,FALSE
+en-US,2018-11-11,Veterans Day,NF,0,FALSE
+en-US,2018-11-22,Thanksgiving Day,NV,4,TRUE
+en-US,2018-11-23,Day after Thanksgiving,NV,5,TRUE
+en-US,2018-12-24,Christmas Eve,NRF,1,TRUE
+en-US,2018-12-25,Christmas Day,NRF,2,TRUE
+en-US,2018-12-31,New Year's Eve,NF,1,FALSE
+en-US,2019-01-01,New Year's Day,NF,2,TRUE
+en-US,2019-01-21,MLK Day,NV,1,TRUE
+en-US,2019-02-18,President's Day,NV,1,TRUE
+en-US,2019-05-27,Memorial Day,NV,1,TRUE
+en-US,2019-07-04,Independence Day,NF,4,TRUE
+en-US,2019-09-02,Labor Day,NV,1,TRUE
+en-US,2019-10-14,Columbus Day,NV,1,FALSE
+en-US,2019-11-11,Veterans Day,NF,1,FALSE
+en-US,2019-11-22,Day after Thanksgiving,NV,5,TRUE
+en-US,2019-11-28,Thanksgiving Day,NV,4,TRUE
+en-US,2019-12-24,Christmas Eve,NRF,2,TRUE
+en-US,2019-12-25,Christmas Day,NRF,3,TRUE
+en-US,2019-12-31,New Year's Eve,NF,2,FALSE
+en-US,2020-01-01,New Year's Day,NF,3,TRUE
+en-US,2020-01-20,MLK Day,NV,1,TRUE
+en-US,2020-02-17,President's Day,NV,1,TRUE
+en-US,2020-05-25,Memorial Day,NV,1,TRUE
+en-US,2020-07-03,Independence Day (City Observation),NF,5,TRUE
+en-US,2020-07-04,Independence Day,NF,6,FALSE
+en-US,2020-09-07,Labor Day,NV,1,TRUE
+en-US,2020-10-12,Columbus Day,NV,1,FALSE
+en-US,2020-11-11,Veterans Day,NF,3,FALSE
+en-US,2020-11-26,Thanksgiving Day,NV,4,TRUE
+en-US,2020-11-27,Day after Thanksgiving,NV,5,TRUE
+en-US,2020-12-24,Christmas Eve,NRF,4,TRUE
+en-US,2020-12-25,Christmas Day,NRF,5,TRUE
+en-US,2020-12-31,New Year's Eve,NF,4,FALSE
+en-US,2021-01-01,New Year's Day,NF,5,TRUE
+en-US,2021-01-18,MLK Day,V,1,TRUE
+en-US,2021-02-15,President's Day,NV,1,TRUE
+en-US,2021-05-31,Memorial Day,NV,1,TRUE
+en-US,2021-07-04,Independence Day,NF,0,FALSE
+en-US,2021-07-05,Independence Day (City Observation),NF,1,TRUE
+en-US,2021-09-06,Labor Day,NV,1,TRUE
+en-US,2021-10-11,Columbus Day,NV,1,FALSE
+en-US,2021-11-11,Veterans Day,NF,4,FALSE
+en-US,2021-11-25,Thanksgiving Day,NV,4,TRUE
+en-US,2021-12-25,Christmas Day,NRF,6,FALSE
+en-US,2021-12-31,New Year's Eve,NF,5,FALSE
