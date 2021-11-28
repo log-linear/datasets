@@ -15,6 +15,6 @@ Miscellaneous datasets and scripts used to generate/update them.
     - rnoaa
     - tidyr
     - readr
-- PowerShell
+- POSIX-compliant shell (e.g. bash) or PowerShell
 - git (obviously)
 
